@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_sporty.dart
+ASSET_PREFIX=sporty
+BUNDLE_NAME=Sporty
+BUNDLE_DISPLAY_NAME=Sporty
